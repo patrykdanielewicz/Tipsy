@@ -21,7 +21,7 @@ Tipsy is a mobile application built with **Swift and UIKit** that helps users ea
 ![Main Screen](Screenshots/main-screen.png)  
 
 ### 🧮 Calculation Screen  
-![Calculation Screen](Screenshots/calculate-screen)  
+![Calculation Screen](Screenshots/calculate-screen.png)  
 
 ---
 
